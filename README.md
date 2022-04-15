@@ -24,30 +24,23 @@
 <hr></hr>
 
 ## Background
-Organization can be the difference between success and coming up short. For this reason, I decided to create an application that could aid in the success of Developers in the field. BugsyTracker is a user-friendly app that is simple in design to help in field that is very focus-driven. A user can describe a bug whilst also assigning the issue to another member on their team with relative ease.  
+A website showcasing me and some of my work. This project is simply a personal website regarding who I am and what I do.   
 
 
 
 <hr></hr>
 
 ## Features
-* Accepts input from developers on which bugs to address in their program
-* Displays all current bugs that have been submitted
-* Users may delete bugs from database after being addressed
-* contact support section for questions about the application 
-* Using formsubmit.co and axios for submitting a problem or message in customer support
-* Conditional rendering implemented if there are no bugs posted
-* Login and registration using Bcrypt and other dependencies
+* Clickable drop-down menu with clean SASS implementation.
+
 
 <hr></hr>
 
 ## Technologies Used
 
-* React -- I decided to use React because of its popularity, making it a relatable library to use when developing an application
-* MongoDB -- use to store data in the form of bugs and users created through the application
-* Express -- enables connection to the frontend with minimal approach
-* HTML, CSS, JSON -- used to create front end form creation script
-* ChartJS -- used for creating charts to display the information from the backend
+* SASS -- used for styling the entire project
+* HTML, CSS -- used to create front end form creation script
+
 
 
 <hr></hr>
@@ -64,7 +57,7 @@ N/A
 
 ## Usage
 
-May be used in a software developer's workfield to keep a more organized list of issues for his/her team or self. Can assign bugs for personal project as well.
+Personable to get to know me! Info included so you can reach out as well.
 
 
 
@@ -72,8 +65,7 @@ May be used in a software developer's workfield to keep a more organized list of
 
 ## Project Status
 
-Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well. 
-Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is added to Reports section. information from the database is prevelant on the page but is not rendering into the chart. Register for takes in data to the backened.
+Main page is completed. 
 
 
 
@@ -90,7 +82,7 @@ Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is ad
 
 ## Acknowledgement
 
-This project came through researching what ideas could be of use to Developers working in their industry. It was a project recommended to try out by many experienced developers already in the industry.
+This project idea came to mind since I did not have a website to showcase my work. I also wanted to work with SASS because I am constantly trying to improve upon my skills.
 
 
 
