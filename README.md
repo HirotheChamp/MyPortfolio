@@ -73,8 +73,9 @@ Main page is completed.
 
 ## Room for Improvement
 
-* Code will be tested more thoroughly to prevent mistakes
-* Files and folders will be labeled and organized far superior in the future
+* learning hotkeys to speed up coding process
+* develop a deeper understanding of the syntax and methods used in SASS
+
 
 
 
